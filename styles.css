@@ -61,11 +61,11 @@ main {
     font-weight: 900;
 }
 
-.first-section-left button {
+.sign-up {
     background-color: #3882F6;
     color: #eee;
     font-size: 1rem;
-    border: 0.5px solid black;
+    border: 2px solid #eee;
     padding: 5px 22px;
     border-radius: 5px;
     cursor: pointer;
@@ -146,4 +146,25 @@ main {
 .quoting {
     font-size: 26px;
     font-weight: lighter;
+}
+
+/* --- FOURTH SECTION --- */
+
+#fourth-section {
+    padding: 50px 148px;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 20px 80px;
+    border-radius: 5px;
+    gap: 70px;
+}
+
+.fourth-section-left h3, .fourth-section-left p {
+    margin: 0;
 }
