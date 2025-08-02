@@ -168,3 +168,14 @@ main {
 .fourth-section-left h3, .fourth-section-left p {
     margin: 0;
 }
+
+/* --- FOOTER --- */
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 148px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
