@@ -123,3 +123,27 @@ main {
 .card-item p {
     width: 135px;
 }
+
+/* --- THIRD SECTION --- */
+
+#third-section {
+    background-color: #E5E7EB;
+    padding: 50px 188px;
+}
+
+.quote {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.author {
+    margin-left: auto;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.quoting {
+    font-size: 26px;
+    font-weight: lighter;
+}
